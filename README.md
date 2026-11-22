@@ -47,6 +47,7 @@
 
 <br/>
 
+<!--
 <div align="center">
 <table><tr><td valign="top" width="50%">
 
@@ -62,6 +63,7 @@
 
 </td></tr></table>
 </div>
+-->
 
 ---
 
