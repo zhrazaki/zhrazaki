@@ -153,7 +153,7 @@
 
 **Technologies:** `Python` · `scikit-learn` · `pandas` · `matplotlib`
 
-🔗 [github.com/zhrazaki/ai-decision-tree-classification](https://github.com/zhrazaki/ai-decision-tree-classification)
+🔗 [ai-decision-tree-classification — Artificial Intelligence collection](https://github.com/zhrazaki/artificial-intelligence/tree/main/ai-decision-tree-classification)
 
 </details>
 
@@ -172,7 +172,7 @@
 
 **Technologies:** `Python` · `gymnasium` · `numpy` · `matplotlib`
 
-🔗 [github.com/zhrazaki/ai-qlearning-mountain-car](https://github.com/zhrazaki/ai-qlearning-mountain-car)
+🔗 [ai-qlearning-mountain-car — Artificial Intelligence collection](https://github.com/zhrazaki/artificial-intelligence/tree/main/ai-qlearning-mountain-car)
 
 </details>
 
@@ -190,7 +190,7 @@
 
 **Technologies:** `Python` · `numpy` · `scipy` · `librosa` · `pygame`
 
-🔗 [github.com/zhrazaki/ai-genetic-algorithm-minimax](https://github.com/zhrazaki/ai-genetic-algorithm-minimax)
+🔗 [ai-genetic-algorithm-minimax — Artificial Intelligence collection](https://github.com/zhrazaki/artificial-intelligence/tree/main/ai-genetic-algorithm-minimax)
 
 </details>
 
@@ -207,7 +207,7 @@
 
 **Technologies:** `R` · `plotly` · `Jupyter`
 
-🔗 [github.com/zhrazaki/eps-statistical-distribution-analysis](https://github.com/zhrazaki/eps-statistical-distribution-analysis)
+🔗 [eps-statistical-distribution-analysis — Statistics collection](https://github.com/zhrazaki/engineering-probability-and-statistics/tree/main/eps-statistical-distribution-analysis)
 
 </details>
 
@@ -220,7 +220,7 @@
 
 **Technologies:** `R` · `dplyr` · `ggplot2`
 
-🔗 [github.com/zhrazaki/eps-random-variables-stochastic-models](https://github.com/zhrazaki/eps-random-variables-stochastic-models)
+🔗 [eps-random-variables-stochastic-models — Statistics collection](https://github.com/zhrazaki/engineering-probability-and-statistics/tree/main/eps-random-variables-stochastic-models)
 
 </details>
 
@@ -233,7 +233,7 @@
 
 **Technologies:** `R` · `ggplot2` · `tidyr` · `gapminder`
 
-🔗 [github.com/zhrazaki/eps-clt-and-benfords-law](https://github.com/zhrazaki/eps-clt-and-benfords-law)
+🔗 [eps-clt-and-benfords-law — Statistics collection](https://github.com/zhrazaki/engineering-probability-and-statistics/tree/main/eps-clt-and-benfords-law)
 
 </details>
 
