@@ -72,9 +72,12 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+<img src="https://img.shields.io/badge/SQL-6D28D9?style=for-the-badge&logoColor=white" alt="SQL"/>
 </div>
 
+<!--
 ### 🤖 AI · Machine Learning · Data Science
 
 <div align="center">
@@ -88,6 +91,7 @@
 <img src="https://img.shields.io/badge/Gymnasium-7C3AED?style=for-the-badge" alt="Gymnasium"/>
 <img src="https://img.shields.io/badge/librosa-8B5CF6?style=for-the-badge" alt="librosa"/>
 </div>
+-->
 
 ### 🛠️ Simulation · Tools & Platforms
 
@@ -103,6 +107,7 @@
 
 ---
 
+<!--
 ## 🌟 Featured Project — Independent Work
 
 <details open>
@@ -133,8 +138,7 @@
 🔗 **Repository:** [github.com/zhrazaki/TennisRobotDigitalTwin](https://github.com/zhrazaki/TennisRobotDigitalTwin)
 
 </details>
-
----
+-->
 
 ## 📚 Academic Coursework — Artificial Intelligence
 
@@ -267,6 +271,7 @@
 
 ---
 
+<!--
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -280,8 +285,7 @@
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/zhrazaki/zhrazaki/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
----
+-->
 
 <div align="center">
 
