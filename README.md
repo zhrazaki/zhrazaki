@@ -252,7 +252,7 @@
 
 **Technologies:** `C++17` · `Make`
 
-🔗 [github.com/zhrazaki/UTBank](https://github.com/zhrazaki/UTBank)
+🔗 [UTBank — C++ collection](https://github.com/zhrazaki/cpp/tree/main/UTBank)
 
 </details>
 
