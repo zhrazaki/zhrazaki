@@ -43,7 +43,7 @@
 - 📊 Strong foundation in **probability, statistics and data analysis** (R · ggplot2 · plotly)
 - 🔬 Exploring the intersection of **AI and medicine** — medical image analysis & bioinformatics
 - 🤖 Building a **digital twin of a tennis robot** with procedural scene construction in Unreal Engine
-- 💻 Comfortable across the stack: **C++17 software systems**, Python tooling, and Git workflows
+- 💻 Comfortable across the stack: **C++ software systems**, Python tooling, and Git workflows
 
 <br/>
 
