@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=920&height=70&lines=Computer+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Data+Science+Practitioner;Medical+AI+%26+Bioinformatics+Explorer;Deep+Learning+Developer;Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=920&height=70&lines=zahra+Zaki;Computer+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Data+Science+Practitioner;Medical+AI+%26+Bioinformatics+Explorer;Deep+Learning+Developer;Software+Engineer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -39,10 +39,11 @@
 ## 🎯 About Me
 
 - 🎓 **Computer Engineering undergraduate** at the University of Tehran
-- 🤖 Building a **digital twin of a tennis robot** with Unreal Engine & Python
-- 🧠 Coursework and projects in **AI, Machine Learning, Data Science** and classical **statistics**
-- 🔬 Exploring the intersection of **AI and medicine** — medical AI & bioinformatics
-- 💻 Hands-on with **software engineering**: C++17 networked systems, Python, R
+- 🧠 Building a portfolio across **AI & Machine Learning** — from a from-scratch decision tree to tabular Q-learning and genetic algorithms
+- 📊 Strong foundation in **probability, statistics and data analysis** (R · ggplot2 · plotly)
+- 🔬 Exploring the intersection of **AI and medicine** — medical image analysis & bioinformatics
+- 🤖 Building a **digital twin of a tennis robot** with procedural scene construction in Unreal Engine
+- 💻 Comfortable across the stack: **C++17 software systems**, Python tooling, and Git workflows
 
 <br/>
 
@@ -108,24 +109,25 @@
 
 <br/>
 
-> Digital-twin simulation of a tennis robot: a Unreal Engine project modeling the robot and its environment, driven from Python.
+> Digital twin of a tennis court and robot collector, built **procedurally in Unreal Engine** with Python editor scripting.
 
 | | |
 |---|---|
-| **Domain** | Robotics · Digital Twin · Simulation |
+| **Domain** | Robotics · Digital Twin · Procedural Content Generation |
 | **Engine** | Unreal Engine (`.uproject` project `TennisRobotSim`) |
-| **Scripting** | Python-side control logic (`Python/`) |
+| **Scripting** | Python editor scripting via the `unreal` API |
 | **Assets** | Rigged humanoid character & tennis racquet (glTF/`.glb`) |
 | **Status** | Active — work in progress |
 
 **Engineering Highlights**
 
-- Full Unreal Engine project structure (`Config/`, `Content/`, `Data/`) versioned with a curated `.gitignore` for editor artifacts
-- Integration pipeline between the UE simulation and Python-side logic (`Python/` module)
-- Real-world asset pipeline: importing `.glb` character and racquet meshes into the engine
-- Designed for reproducible simulation experiments against the physical robot design
+- **Phase-based build system** (11 phases): config validation → surface → lines → net → materials → collision → polish → robot assembly → camera/vision setup, orchestrated by `run_all_phases.py`
+- **Config-driven geometry:** court dimensions live in `Data/court_dimensions.json`, consumed by a dedicated `Core/court_config` module
+- **Modular Python packages:** `Core` (coordinate system, units, court config), `Court` (surface/lines/net/materials/collision/robot builders), `Sensors` (robot camera mount)
+- **Real scene construction through the `unreal` API:** spawning and wiring actors (`EditorActorSubsystem`), attaching a CineCamera to the robot camera mount for vision experiments
+- **Asset pipeline:** importing `.glb` character and racquet meshes into the engine
 
-**Technologies:** `Unreal Engine` · `Python` · `glTF/Blender assets` · `Git`
+**Technologies:** `Unreal Engine` · `Python (unreal API)` · `JSON config` · `glTF assets` · `Git`
 
 🔗 **Repository:** [github.com/zhrazaki/TennisRobotDigitalTwin](https://github.com/zhrazaki/TennisRobotDigitalTwin)
 
@@ -246,6 +248,21 @@
 🔗 [github.com/zhrazaki/UTBank](https://github.com/zhrazaki/UTBank)
 
 </details>
+
+---
+
+## 🔬 Currently Exploring
+
+<div align="center">
+
+| | |
+|---|---|
+| 🩻 | **Medical Image Segmentation** — segmentation pipelines for clinical imaging |
+| 🧬 | **Computational Biology** — sequence analysis and structural data workflows |
+| 🧪 | **Bioinformatics** — genomic data processing and open biomedical datasets |
+| 🛡️ | **Robust Machine Learning** — generalization and evaluation under distribution shift |
+
+</div>
 
 ---
 
