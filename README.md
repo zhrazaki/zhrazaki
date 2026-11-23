@@ -97,7 +97,6 @@ Robust Machine Learning
 ### 📊 GitHub
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zhrazaki&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=CBD5E1" height="150" alt="GitHub stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhrazaki&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1&langs_count=8" height="150" alt="Top languages"/>
 </div>
 
